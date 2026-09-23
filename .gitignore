@@ -1,0 +1,33 @@
+# ---- Personal learning material (kept local, never committed) ----
+docs/
+
+# ---- Build output ----
+cmake-build-*/
+build/
+*.o
+*.a
+*.so
+*.d
+/minidock
+tools/hog
+tools/cpuburn
+compile_commands.json
+
+# ---- Root filesystem images (large binaries, re-downloadable) ----
+images/*.tar
+images/*.tar.gz
+images/*.tgz
+images/*/
+
+# ---- IDE / editor ----
+.idea/
+.vscode/
+.cache/
+*.swp
+*~
+
+# ---- Debugging leftovers ----
+core
+core.*
+vgcore.*
+*.strace
