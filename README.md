@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/cover.png" alt="minidock: a container runtime in C, built from raw Linux syscalls" width="100%">
+  <img src="assets/logo.png" alt="minidock logo: a blue hermit crab peeking out of a cardboard box labelled 1 PROCESS" width="200">
+</p>
+
+<p align="center">
+  <img src="assets/cover.jpg" alt="minidock: a shipping label on a cardboard box — Docker, packed small, built by hand from raw Linux syscalls" width="100%">
 </p>
 
 <p align="center">
